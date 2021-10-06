@@ -1,15 +1,9 @@
 Ruchit Patel
 
-rpatel18
-
-Spring 2021
-
-Assignment 7: The Great Firewall of Santa Cruz
-
 ---------------------
 DESCRIPTION
 
-- In this lab, a data filtering program is implemented. 
+- A data filtering program is implemented. 
 - The data is parsed using regular expressions and filtered with Bloom filter according to words added in a Hash Table.
 - The lab produces one executable: Banhammer (banhammer to be exact).
 - Command line arguments:   -h (prints help message), 
@@ -104,4 +98,6 @@ With make:
 6. In order to clean up (remove object and executable files), run “make clean” in the terminal.
 
 7. In order to format files, run “make format” in the terminal.
+
+This is a part of a lab given by Prof. Darrell Long.
 
